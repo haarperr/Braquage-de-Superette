@@ -1,7 +1,9 @@
-# loffe_robbery
-GTA:O style shop robbery for FiveM
+# Braquage-de-Superette : Installtion
+GTAV : Pour commencer Télecharger le fichier.
+Metterfichier dans votre dossier esx 
 
-## Requirements
-ESX server with policejob etc
+## Besoins
+Vous avez besoin du esx_policejob 
 
-[Video](https://www.youtube.com/watch?v=l926BP_HdS8)
+##Discord
+Besoins d'aide venez ici : https://discord.gg/YDJKncz
